@@ -1,7 +1,5 @@
 # Jacob - Tech Test
 
-You will have to `bundle install && yarn install` before running `rails c`
-
 The main files here that were added are:
 
 - `app/use_cases/check_fly_buys_card_number.rb`
